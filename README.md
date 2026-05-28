@@ -172,12 +172,14 @@ parts.
 ## 5. Citation
 
 ```bibtex
-@inproceedings{gohd2025,
-    title={GoHD: Gaze-oriented and Highly Disentangled Portrait Animation
-           with Rhythmic Poses and Realistic Expressions},
-    author={Zhou, Ziqi and others},
-    booktitle={AAAI},
-    year={2025}
+@inproceedings{zhou2025gohd,
+    title     = {GoHD: Gaze-oriented and Highly Disentangled Portrait Animation
+                 with Rhythmic Poses and Realistic Expressions},
+    author    = {Zhou, Ziqi and Quan, Weize and Shi, Hailin and Li, Wei and
+                 Wang, Lili and Yan, Dong-Ming},
+    booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence
+                 (AAAI)},
+    year      = {2025}
 }
 ```
 
