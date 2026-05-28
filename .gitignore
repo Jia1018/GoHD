@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Outputs
+results/
+output*/
+*.mp4
+!examples/driving_videos/*.mp4
+
+# Pretrained weights (large, downloaded separately)
+checkpoints/*.pt
+checkpoints/*.pth
+checkpoints/*.pkl
+face_parsing/*.pth
+Deep3DFaceRecon_pytorch/checkpoints/
+
+# BFM assets (license-restricted)
+BFM/*.mat
+BFM/*.bin
